@@ -1,0 +1,3 @@
+﻿  maldicion.cpp
+C:\Users\Asus\source\repos\maldicion\maldicion\maldicion.cpp(20,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  maldicion.vcxproj -> C:\Users\Asus\source\repos\maldicion\Debug\maldicion.exe
